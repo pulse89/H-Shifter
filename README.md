@@ -40,4 +40,4 @@ You'll also need a variety of M3 screws, nuts and washers along with a couple of
 #### Electronics and Software
 
 Wire the potentiometer output to A3, and the switches to D2 and D3.
-You may need to tweak the 
+When you first flash the code to your Arduino, change the debug variable to true and check the serial port for readings from your potentiometer. Copy values from each gate into the correct variables and then re-upload the code and verify the correct gears are being selected. Then change debug back to false and re-upload!
