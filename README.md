@@ -1,6 +1,6 @@
 # H-Pattern and Sequential Shifter
 
-![Alt text](Title.png "H-Shifter")
+![Alt text](title.png "H-Shifter")
 
 Link to the video: https://youtu.be/RtLBD2DWTTg
 
