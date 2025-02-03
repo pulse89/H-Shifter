@@ -2,7 +2,7 @@
 
 ![Alt text](title.png "H-Shifter")
 
-Link to the video: https://youtu.be/RtLBD2DWTTg
+Link to the video: [https://youtu.be/RtLBD2DWTTg](https://youtu.be/AKZnvJ_tqVI)
 
 I got sick of using the flappy paddles on my Logitech wheel so I decided to build my own H-Pattern and sequential shifter! All parts can be 3D printed!
 
