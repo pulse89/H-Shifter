@@ -30,7 +30,7 @@ You will also need to purchase the following parts:
 
 1x Arduino Pro Micro - https://www.aliexpress.com/item/1005006654641959.html
 
-1x Hardened Steel Shaft - https://www.aliexpress.com/item/1005007573838689.html
+1x 10x140mm Hardened Steel Shaft - https://www.aliexpress.com/item/1005007573838689.html
 
 If printing, you will also need:
 16x M3x5x5 Threaded Inserts
